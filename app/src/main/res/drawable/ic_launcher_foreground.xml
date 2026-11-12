@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Sovereign Shield Frame -->
+    <path
+        android:fillColor="#0E221B"
+        android:strokeColor="#00E676"
+        android:strokeWidth="2.5"
+        android:pathData="M54,22 L80,32 L80,54 C80,71 69,82 54,88 C39,82 28,71 28,54 L28,32 Z" />
+
+    <!-- Inner Cyber-Emerald Core Octagon -->
+    <path
+        android:fillColor="#133328"
+        android:pathData="M54,29 L73,37 L73,53 C73,66 64,75 54,80 C44,75 35,66 35,53 L35,37 Z" />
+
+    <!-- Rising Yield Bars -->
+    <path
+        android:fillColor="#00B0FF"
+        android:pathData="M41,60 L46,60 L46,70 L41,70 Z" />
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M49,52 L54,52 L54,70 L49,70 Z" />
+    <path
+        android:fillColor="#69F0AE"
+        android:pathData="M57,44 L62,44 L62,70 L57,70 Z" />
+
+    <!-- High-Velocity Gold Dividend Bolt / Arrow -->
+    <path
+        android:fillColor="#FFD740"
+        android:pathData="M56,31 L43,51 L53,51 L50,67 L66,46 L55,46 Z" />
+</vector>
